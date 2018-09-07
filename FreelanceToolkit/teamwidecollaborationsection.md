@@ -1,7 +1,7 @@
-H1: Team-Wide Collaboration
+#Team-Wide Collaboration
 ===========================
 
-H2: Microsoft Teams 
+##Microsoft Teams 
 --------------------
 
 What if you could increase output 120% by internally transforming the way your
@@ -21,7 +21,7 @@ solution to her entire 150 person organization.
 freelance
 teams](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BFAC14372-6C93-48F1-B4C4-436EAD4F56E7%7D&file=Team%20Wide%20Collaboration%20Case%20Study.docx&action=default&mobileredirect=true)
 
-Challenge in the Enterprise
+##Challenge in the Enterprise
 ---------------------------
 
 While today’s freelancer tools work fine for 1:1 discussions, most enterprise

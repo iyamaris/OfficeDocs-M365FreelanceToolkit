@@ -1,4 +1,4 @@
-H1: Internal Communication & Awareness
+Internal Communication & Awareness
 ======================================
 
 Communications Site 

@@ -1,7 +1,7 @@
-H1: Data Analytics 
+#Data Analytics 
 ===================
 
-Data Analytics with PowerBI 
+##Data Analytics with PowerBI 
 ----------------------------
 
 What if you could collect and customize real time data to make data-driven
@@ -18,7 +18,7 @@ and cheaper by leaps and bounds.
 [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BF7970B74-4DDA-4C39-A732-A067B09FA482%7D&file=Data%20Analytics%20Case%20Study.docx&action=default&mobileredirect=true)
 
-Challenge in the Enterprise
+##Challenge in the Enterprise
 ---------------------------
 
 A major challenge in scaling an enterprise program is tracking and communicating
@@ -47,7 +47,7 @@ Learn More with the following resources:
 
 ![](media/7a6f6b9d262f54d6957d9397ef90d9e8.png)
 
-**Case Study**
+##Case Study
 
 Learn how Chad, a director of strategic sourcing, and a procurement leader on
 the Gig Economy v-team, increased spend and adoption of the freelance program by
@@ -60,7 +60,7 @@ leveraging a data-centric approach.
 
 ![](media/dcee44491cfa14b7c30447ca32c863c6.png)
 
-**Deploy PowerBI Dashboard**
+##Deploy PowerBI Dashboard
 
 Start building your PowerBI dashboard today with our prepopulated template. The
 template is completely customizable, but we have curated many of our best
@@ -69,7 +69,7 @@ practices into the template. Enjoy!
 -   [Download Your PowerBI
     Dashboard](https://github.com/upwork/powerbi-upwork/blob/master/docs/img/upworkpowerbireport.png)
 
-**PowerBI Hiring Template**
+##PowerBI Hiring Template
 
 Start customizing your PowerBI Dashboard in accordance with your enterprise
 today. We have curated many of our hiring best practices, including the ideal
@@ -78,7 +78,7 @@ job description, skills needed, and price point.
 -   [Download Your PowerBI Hiring
     Template](https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1)
 
-**Share Within Your Organization**
+##Share Within Your Organization
 
 Start sharing how to leverage a data-driven approach with this PowerBI visual
 one-page guide.
