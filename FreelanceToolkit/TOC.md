@@ -1,4 +1,4 @@
-# [Index](index.md)
+# [Microsoft 365 freelance toolkit](index.md)
 
 # [Leveraging freelancers in the Enterprise](leveragingfreelancers.md)
 ## [Our journey](ourjourney.md)
