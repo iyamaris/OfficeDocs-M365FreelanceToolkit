@@ -14,7 +14,7 @@ ms.author: samanro
 ---
 # Microsoft 365 freelance toolkit
 
-<P><b>Launch and execute enterprise freelance programs at scale.</b></p>
+<h2>Launch and execute enterprise freelance programs at scale</h2>
 ​<P>Unlock new levels of innovation and efficiency within your organization by extending your fulltime and contingent staff employees with freelancers.</p>
 
 
