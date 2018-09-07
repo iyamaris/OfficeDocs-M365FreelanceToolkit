@@ -1,4 +1,4 @@
-#The Enterprise Challenge
+The Enterprise Challenge
 ========================
 
 Building secure and globally compliant infrastructure means that Enterprise

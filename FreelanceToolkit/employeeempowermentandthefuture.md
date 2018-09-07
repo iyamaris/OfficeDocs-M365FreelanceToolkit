@@ -1,4 +1,4 @@
-#Employee Empowerment and The Future
+Employee Empowerment and The Future
 ===================================
 
 We believe that we can uniquely empower our employees and create meaningful

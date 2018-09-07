@@ -1,4 +1,4 @@
-#Launch Your Freelance Program
+Launch Your Freelance Program
 =================================
 
 The Microsoft 365 toolkit is an a-la-carte solution to launch and execute
@@ -49,7 +49,7 @@ technologies:
 
 ~   Image result for microsoft flow logo
 
-##Start Building Your Own Freelance Program Through the Toolkit
+Start Building Your Own Freelance Program Through the Toolkit
 
 | [./media/image6.png](./media/image6.png) |
 |------------------------------------------|

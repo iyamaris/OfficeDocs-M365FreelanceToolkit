@@ -1,4 +1,4 @@
-#Leveraging freelancers in the enterprise
+Leveraging freelancers in the enterprise
 =================================
 
 Paul & Pranish – due 9/7 

@@ -25,7 +25,7 @@ frictionless experience for the end user.
 tasks within a freelance
 program](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BE1A57D66-675B-4303-A430-7620A9BB0B61%7D&file=Workflow%20Automation%20Case%20Study.docx&action=default&mobileredirect=true)
 
-##Challenge in the Enterprise
+Challenge in the Enterprise
 ---------------------------
 
 While unchecked workflows can fit in an infographic, the real end-to-end process
