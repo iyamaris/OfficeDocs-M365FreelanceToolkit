@@ -9,6 +9,8 @@
 ## [Internal communication & awareness](comssitesection.md)
 ### [Case study](comssitecasestudy.md)
 ## [Team-wide collaboration](teamwidecollaborationsection.md)
+### [Case study](teamwidecollaborationcasestudy.md)
 ## [Data analytics](datanalyticssection.md)
+### [Case study](dataanalyticscasestudy.md)
 ## [Workflow automation](workflowautomationsection.md)
 ### [Case study](workflowautomationcasestudy.md)

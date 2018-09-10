@@ -1,4 +1,17 @@
-Team-Wide Collaboration
+---
+title: Team-wide collaboration
+description: Add a short description
+author: mamottol
+manager: mamottol
+layout: LandingPage
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: landing-page
+ms.author: mamottol
+---
+Team-wide collaboration
 ===========================
 
 Microsoft Teams 
@@ -70,28 +83,120 @@ your hub application that supports integration with Microsoft applications as
 well as hundreds of 3rd party applications like Trello that your teams use to
 get work done. This section will help you learn:
 
+<ul class="panelContent cardsW cols cols2">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Communicate</h3>
+                        <p>xxxx.</p>
+                        <p><a href="leveragingfreelancers.md">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_opportunities.png" alt="A user symbol with a list, a chat box, and a report symbol" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Manage tasks</h3>
+                        <p>xxxx. </p>
+                        <p><a href="launchyourfreelanceprogram.md">GET STARTED</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_opportunities.png" alt="A user symbol with a list, a chat box, and a report symbol" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Collaborate</h3>
+                        <p>xxxx. </p>
+                        <p><a href="launchyourfreelanceprogram.md">GET STARTED</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_opportunities.png" alt="A user symbol with a list, a chat box, and a report symbol" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Invite external users</h3>
+                        <p>xxxx. </p>
+                        <p><a href="launchyourfreelanceprogram.md">GET STARTED</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+
 Learn More with the following resources
 ---------------------------------------
 
-### [./media/image7.png](./media/image7.png)
+<ul class="panelContent cardsF cols cols2">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/document.png" alt="a document icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Case study</h3>
+                        <p>Learn how Beth, a training manager leading a team of four full time employees and a continuous flow of freelancers, increased her teams training video output by 120% through internally transforming the way they communicated, collaborated, and project managed the production of training videos.</p>
+                        <p><a href="workflowautomationcasestudy.md">Learn more</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/download-blue.png" alt="Downloadable infographic" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Share within your organization</h3>
+                        <p>Download an infographic to share how your organization can internally transform the way you communicate, collaborate, and project manage a hybrid full-time-employee and freelance workforce.</p>
+                        <p><a href="">Download the infographic</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
-![](media/dcee44491cfa14b7c30447ca32c863c6.png)
-
-**Case Study**
-
-Learn how Beth, a training manager leading a team of four full time employees
-and a continuous flow of freelancers, increased her teams training video output
-by 120% through internally transforming the way they communicated, collaborated,
-and project managed the production of training videos.
-
--   [Learn
-    More](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BFAC14372-6C93-48F1-B4C4-436EAD4F56E7%7D&file=Team%20Wide%20Collaboration%20Case%20Study.docx&action=default&mobileredirect=true)
-
-**Share Within Your Organization**
-
-Download your tear sheet to share how your organization can internally transform
-the way you communicate, collaborate, and project manage a hybrid
-full-time-employee and freelance workforce.
-
--   [Download Your Tear
-    Sheet](https://microsoft.sharepoint.com/teams/OfficeandtheGigEconomy/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200018FC00B53514E241B4D4EE7AD2BFBB0B&id=%2Fteams%2FOfficeandtheGigEconomy%2FShared%20Documents%2FGeneral%2FWhitepaper%2FTeam%20Wide%20Collaboration%20Tearsheet%20Draft%20%2Ejpg&parent=%2Fteams%2FOfficeandtheGigEconomy%2FShared%20Documents%2FGeneral%2FWhitepaper)
