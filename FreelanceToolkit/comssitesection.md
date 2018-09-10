@@ -59,7 +59,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/video-play.svg" alt="video play icon" />
+                            <img src="media/video-play.png" alt="video play icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -75,7 +75,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/list-123-blue.svg" alt="List icon" />
+                            <img src="media/list-123-blue.png" alt="List icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -91,7 +91,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/folder-horizontal.svg" alt="Document icon" />
+                            <img src="media/folder-horizontal.png" alt="a folder icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -107,7 +107,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/help.svg" alt="Question mark" />
+                            <img src="media/help-blue.png" alt="Question mark" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +129,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/.svg" alt="Microsoft Stream" />
+                            <img src="media/document.png" alt="a document icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -147,7 +147,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/subsite.svg" alt="A site template icon" />
+                            <img src="media/subsite.png" alt="A site template icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -165,7 +165,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/bill-blue.svg" alt="A job posting template icon" />
+                            <img src="media/bill-blue.png" alt="A job posting template icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -183,7 +183,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/document.svg" alt="Downloadable infographic" />
+                            <img src="media/document.png" alt="Downloadable infographic" />
                         </div>
                     </div>
                     <div class="cardText">
