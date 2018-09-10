@@ -65,7 +65,7 @@ Start building your own freelance program through the toolkit
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_communication_comm_site_358x201.png" alt="A SharePoint communications hub" />
+                            <img src="media/M365_Freelance_communications_comm_site_358x201.png" alt="A SharePoint communications hub" />
                         </div>
                     </div>
                     <div class="cardText">
