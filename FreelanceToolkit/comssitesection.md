@@ -119,7 +119,7 @@ practices, we’ve included many of our best practices in the template, such as:
     </li>
 </ul>
 
-Learn more with the following resources:
+Learn more with the following resources
 ---------------------------------------
 
 <ul class="panelContent cardsF cols cols2">

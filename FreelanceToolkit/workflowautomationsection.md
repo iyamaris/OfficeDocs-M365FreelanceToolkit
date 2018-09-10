@@ -38,7 +38,7 @@ frictionless experience for the end user.
 tasks within a freelance
 program](workflowautomationcasestudy.md)
 
-Challenge in the Enterprise
+Challenge in the enterprise
 ---------------------------
 
 While unchecked workflows can fit in an infographic, the real end-to-end process
@@ -55,7 +55,7 @@ With [Microsoft Flow](https://flow.microsoft.com/en-us/), you can create
 automated workflows between your favorite apps and services to get
 notifications, synchronize files, collect data, and more.
 
-Learn More with the following resources: 
+Learn more with the following resources 
 -----------------------------------------
 
 <ul class="panelContent cardsF cols cols2">

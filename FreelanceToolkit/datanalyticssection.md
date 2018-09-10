@@ -31,7 +31,7 @@ and cheaper by leaps and bounds.
 [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BF7970B74-4DDA-4C39-A732-A067B09FA482%7D&file=Data%20Analytics%20Case%20Study.docx&action=default&mobileredirect=true)
 
-Challenge in the Enterprise
+Challenge in the enterprise
 ---------------------------
 
 A major challenge in scaling an enterprise program is tracking and communicating
@@ -53,7 +53,7 @@ With [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/), a suite of
 business analytics tools, you can collect end-to-end, real time data from every
 source, and customize data visualization dashboards.
 
-Learn More with the following resources: 
+Learn more with the following resources
 -----------------------------------------
 <ul class="panelContent cardsF cols cols2">
     <li>
