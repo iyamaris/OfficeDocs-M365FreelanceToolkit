@@ -22,7 +22,7 @@ in under an hour? A place where questions regarding topics like confidentiality,
 intellectual property, and how to get started are answered? Where employees can
 see past projects their colleagues have done?
 
-![The internal Microsoft Gig Economy site](media/c13223be655059d5312a0a32d243e30b.png)
+![The internal Microsoft Gig Economy site](media/M365_Freelance_GigEconomySite_Screenshot_800x450.png)
 
 For Julie, a director leading two-cutting edge wearables in the smart product
 suite, this place enabled her to get up and running in a matter of hours. She
