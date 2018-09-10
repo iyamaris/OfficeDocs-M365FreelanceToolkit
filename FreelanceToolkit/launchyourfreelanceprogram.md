@@ -65,7 +65,7 @@ Start building your own freelance program through the toolkit
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_communication_commsite.png" alt="A SharePoint communications hub" />
+                            <img src="media/M365_Freelance_communication_comm_site_358x201.png" alt="A SharePoint communications hub" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -99,7 +99,7 @@ Start building your own freelance program through the toolkit
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_visibility_upworkreport.png" alt="A SharePoint communications hub" />
+                            <img src="media/M365_Freelance_visibility_upworkreport.png" alt="a PowerBI dashboard" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -116,7 +116,7 @@ Start building your own freelance program through the toolkit
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_cognitiveload_flowchart.png" alt="a Planner board inside Microsoft Teams" />
+                            <img src="media/M365_Freelance_cognitiveload_358x201.png" alt="a Visio representation of a workflow" />
                         </div>
                     </div>
                     <div class="cardText">
