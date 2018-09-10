@@ -29,7 +29,7 @@ and cheaper by leaps and bounds.
 ![](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
 
 [Learn how Chad increased spend and adoption by leveraging a data-centric
-approach](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BF7970B74-4DDA-4C39-A732-A067B09FA482%7D&file=Data%20Analytics%20Case%20Study.docx&action=default&mobileredirect=true)
+approach](dataanalyticscasestudy.md)
 
 Challenge in the enterprise
 ---------------------------
