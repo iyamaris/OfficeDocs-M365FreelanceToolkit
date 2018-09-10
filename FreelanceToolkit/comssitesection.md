@@ -183,7 +183,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/document.png" alt="Downloadable infographic" />
+                            <img src="media/download-blue.png" alt="Downloadable infographic" />
                         </div>
                     </div>
                     <div class="cardText">
