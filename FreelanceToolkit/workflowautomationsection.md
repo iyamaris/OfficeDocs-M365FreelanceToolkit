@@ -3,11 +3,12 @@ title: Workflow automation
 description: Add a short description
 author: samanro
 manager: samanro
-layout: article
+layout: LandingPage
 ms.assetid: 
 ms.service: 
 ms.tgt_pltfrm: na
 ms.devlang: na
+ms.topic: landing-page
 ms.author: samanro
 ---
 Workflow automation
