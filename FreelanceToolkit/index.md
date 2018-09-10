@@ -31,7 +31,7 @@ ms.author: samanro
                     <div class="cardText">
                         <h3>Leveraging freelancers in the enterprise</h3>
                         <p>Get specific skills, create more time, or add workers with the gig economy.</p>
-                        <p><a href="">LEARN MORE</a></p>
+                        <p><a href="leveragingfreelancers.md">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ ms.author: samanro
                     <div class="cardText">
                         <h3>Launch your freelance program</h3>
                         <p>Leverage our tools, templates, and best practices within your existing M365 stack to launch and execute a freelance program at scale. </p>
-                        <p><a href="">GET STARTED</a></p>
+                        <p><a href="launchyourfreelanceprogram.md">GET STARTED</a></p>
                     </div>
                 </div>
             </div>
