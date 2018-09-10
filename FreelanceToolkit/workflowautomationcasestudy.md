@@ -4,15 +4,15 @@ Workflow automation case study 
 Liane is a Freelance Program Manager at Microsoft. While her title is technically 3 words, her responsibilities span across at least 3 different roles, with success being measured by her ability to increase internal adoption of freelance platforms. To accomplish this, her role starts looking more like the Constitution than a job description. She must:
 
 - Be a one-woman CRM
--- Email people that sign up 
--- Email people that take training video
--- Email people that fill out application
--- Track the funnel and follow up with those at all stages 
+    - Email people that sign up 
+    - Email people that take training video
+    - Email people that fill out application
+    - Track the funnel and follow up with those at all stages 
 
 - Be a one-woman fire department
--- Consult those with questions
--- Consult those angry about the organization using freelancers
--- Teach employees how to use freelancers, everything from job posting to freelancer management
+    - Consult those with questions
+    - Consult those angry about the organization using freelancers
+    - Teach employees how to use freelancers, everything from job posting to freelancer management
 
 - Operationalize the program
 
