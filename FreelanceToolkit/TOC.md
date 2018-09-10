@@ -12,5 +12,6 @@
 ### [Case study](teamwidecollaborationcasestudy.md)
 ## [Data analytics](datanalyticssection.md)
 ### [Case study](dataanalyticscasestudy.md)
+### [PowerBI engagement template](powerbihiringtemplate.md)
 ## [Workflow automation](workflowautomationsection.md)
 ### [Case study](workflowautomationcasestudy.md)
