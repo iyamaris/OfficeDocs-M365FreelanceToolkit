@@ -1,7 +1,20 @@
-Data Analytics 
+---
+title: Data analytics
+description: Add a short description
+author: mamottol
+manager: mamottol
+layout: LandingPage
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: landing-page
+ms.author: mamottol
+---
+Data analytics 
 ===================
 
-Data Analytics with PowerBI 
+Data analytics with PowerBI 
 ----------------------------
 
 What if you could collect and customize real time data to make data-driven
@@ -13,7 +26,7 @@ freelance isn’t just a flash in the pan. That instead, by comparing it side by
 side with existing external staffing options, it is consistently better, faster,
 and cheaper by leaps and bounds.
 
-![](media/2ca5b7f0f9a27b1982ee03ce1d360ca2.png)
+![](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
 
 [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BF7970B74-4DDA-4C39-A732-A067B09FA482%7D&file=Data%20Analytics%20Case%20Study.docx&action=default&mobileredirect=true)
@@ -42,46 +55,78 @@ source, and customize data visualization dashboards.
 
 Learn More with the following resources: 
 -----------------------------------------
+<ul class="panelContent cardsF cols cols2">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/document.png" alt="a document icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Case study</h3>
+                        <p>Learn how Chad, a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, increased spend and adoption of the freelance program by leveraging a data-centric approach.</p>
+                        <p><a href="dataanalyticscasestudy.md">Learn more</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/subsite.png" alt="A site template icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Deploy PowerBI dashboard</h3>
+                        <p>Start building your PowerBI dashboard today with our prepopulated template. The template is completely customizable, but we have curated many of our best practices into the template. Enjoy!</p>
+                        <p><a href="https://microsoft.sharepoint-df.com/teams/MSFTUpworkTeam/Shared%20Documents/Expert%20Marketplace/SharePoint%20Comms%20Site.PNG">Deploy communications site</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/bill-blue.png" alt="A job posting template icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>PowerBI engagement template</h3>
+                        <p>Start customizing your PowerBI Dashboard in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
+                        <p><a href="https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1">Download the PowerBI engagement template</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/download-blue.png" alt="Downloadable infographic" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Share within your organization</h3>
+                        <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this PowerBI visual one-page guide.</p>
+                        <p><a href="">Download the infographic</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
-![](media/e1a4f00a580c3432ba5278d13c1805c6.png)
-
-![](media/7a6f6b9d262f54d6957d9397ef90d9e8.png)
-
-**Case Study**
-
-Learn how Chad, a director of strategic sourcing, and a procurement leader on
-the Gig Economy v-team, increased spend and adoption of the freelance program by
-leveraging a data-centric approach.
-
--   [Learn
-    More](https://microsoft.sharepoint.com/:w:/r/teams/OfficeandtheGigEconomy/_layouts/15/Doc.aspx?sourcedoc=%7BF7970B74-4DDA-4C39-A732-A067B09FA482%7D&file=Data%20Analytics%20Case%20Study.docx&action=default&mobileredirect=true)
-
-![](media/4db3e30011b7f4747065d43a67ee75c4.png)
-
-![](media/dcee44491cfa14b7c30447ca32c863c6.png)
-
-**Deploy PowerBI Dashboard**
-
-Start building your PowerBI dashboard today with our prepopulated template. The
-template is completely customizable, but we have curated many of our best
-practices into the template. Enjoy!
-
--   [Download Your PowerBI
-    Dashboard](https://github.com/upwork/powerbi-upwork/blob/master/docs/img/upworkpowerbireport.png)
-
-**PowerBI Hiring Template**
-
-Start customizing your PowerBI Dashboard in accordance with your enterprise
-today. We have curated many of our hiring best practices, including the ideal
-job description, skills needed, and price point.
-
--   [Download Your PowerBI Hiring
-    Template](https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1)
-
-**Share Within Your Organization**
-
-Start sharing how to leverage a data-driven approach with this PowerBI visual
-one-page guide.
-
--   [Download Your Tear
-    Sheet](https://microsoft.sharepoint.com/teams/OfficeandtheGigEconomy/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FOfficeandtheGigEconomy%2FShared%20Documents%2FGeneral%2FWhitepaper%2FTearsheet%20Comparable%2Ejpg&parent=%2Fteams%2FOfficeandtheGigEconomy%2FShared%20Documents%2FGeneral%2FWhitepaper)

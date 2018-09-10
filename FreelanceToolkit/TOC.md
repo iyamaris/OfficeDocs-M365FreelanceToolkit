@@ -11,3 +11,4 @@
 ## [Team-wide collaboration](teamwidecollaborationsection.md)
 ## [Data analytics](datanalyticssection.md)
 ## [Workflow automation](workflowautomationsection.md)
+### [Case study](workflowautomationcasestudy.md)
