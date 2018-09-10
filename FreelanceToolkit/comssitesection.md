@@ -52,14 +52,14 @@ one-stop-shop for everything they need to know about the program. While the site
 is completely customizable by you based on your requirements, policies, and
 practices, we’ve included many of our best practices in the template, such as:
 
-<ul class="panelContent cardsW cols cols2">
+<ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/beea29cf92837a9a39f7904744803b79.png" alt="Microsoft Stream video" />
+                            <img src="media/video-play.svg" alt="video play icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -75,7 +75,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/d7fbba49efa79527e511881dc472a46e.png" alt="Links" />
+                            <img src="media/list-123-blue.svg" alt="List icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -91,7 +91,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/1ae8a78f782a36dc1fb31f669a0b9117.png" alt="Links" />
+                            <img src="media/folder-horizontal.svg" alt="Document icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -107,7 +107,7 @@ practices, we’ve included many of our best practices in the template, such as:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/163fcd3acdac77a58df2a742567ec22a.png" alt="Links" />
+                            <img src="media/help.svg" alt="Question mark" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -122,14 +122,14 @@ practices, we’ve included many of our best practices in the template, such as:
 Learn more with the following resources:
 ---------------------------------------
 
-<ul class="panelContent cardsW cols cols2">
+<ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/7a6f6b9d262f54d6957d9397ef90d9e8.png" alt="Microsoft Stream video" />
+                            <img src="media/.svg" alt="Microsoft Stream" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -147,7 +147,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/dcee44491cfa14b7c30447ca32c863c6.png" alt="Links" />
+                            <img src="media/subsite.svg" alt="A site template icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -165,12 +165,12 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/1ae8a78f782a36dc1fb31f669a0b9117.png" alt="Links" />
+                            <img src="media/bill-blue.svg" alt="A job posting template icon" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>Communication site engagement template</h3>
-                        <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our hiring best practices, including the ideal job description, skills needed, and price point.</p>
+                        <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
                         <p><a href="https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1">Download the communications site engagement template</a></p>
                     </div>
                 </div>
@@ -183,7 +183,7 @@ Learn more with the following resources:
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/163fcd3acdac77a58df2a742567ec22a.png" alt="Links" />
+                            <img src="media/document.svg" alt="Downloadable infographic" />
                         </div>
                     </div>
                     <div class="cardText">
