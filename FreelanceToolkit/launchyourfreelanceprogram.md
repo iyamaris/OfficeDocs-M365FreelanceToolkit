@@ -1,8 +1,8 @@
 ---
 title: Launch your freelance program
 description: Add a short description
-author: mamottol
-manager: mamottol
+author: samanro
+manager: samanro
 layout: LandingPage
 ms.assetid: 
 ms.service: 
@@ -10,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
 ms.date: 12/13/2017
-ms.author: mamottol
+ms.author: samanro
 localization_priority: None 
 ---
 Launch your freelance program
