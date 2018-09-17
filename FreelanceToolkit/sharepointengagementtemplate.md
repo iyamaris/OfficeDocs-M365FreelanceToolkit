@@ -4,12 +4,13 @@ description: Use this template to engage a freelance SharePoint expert
 author: samanro
 manager: samanro
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: article
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 SharePoint engagement template
 =======================
