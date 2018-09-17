@@ -153,7 +153,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Communication site engagement template</h3>
                         <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1">Download the communications site engagement template</a></p>
+                        <p><a href="sharepointengagementtemplate.md">Download the communications site engagement template</a></p>
                     </div>
                 </div>
             </div>
