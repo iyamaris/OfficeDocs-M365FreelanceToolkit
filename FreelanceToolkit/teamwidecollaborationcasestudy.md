@@ -1,3 +1,16 @@
+---
+title: Team-wide communications case study 
+description: A case study about how Microsoft Teams facilitates team-wide communication
+author: samanro
+manager: samanro
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: article
+ms.author: samanro
+localization_priority: None 
+---
 Team-wide communications case study 
 ===================
 

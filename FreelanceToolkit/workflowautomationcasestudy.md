@@ -1,3 +1,16 @@
+---
+title: Workflow automation case study 
+description: A case study about using Microsoft Flow to automate workflow tasks in an enterprise freelance program
+author: samanro
+manager: samanro
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: article
+ms.author: samanro
+localization_priority: None 
+---
 Workflow automation case study 
 ===================
 

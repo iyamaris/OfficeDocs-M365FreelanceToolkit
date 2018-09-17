@@ -1,6 +1,6 @@
 ---
 title: Internal communication & awareness
-description: Add a short description
+description: How to set up internal communications about an enterprise freelancer program 
 author: samanro
 manager: samanro
 layout: LandingPage
@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
 ms.author: samanro
+localization_priority: None 
 ---
 Internal communication & awareness
 ======================================
@@ -26,7 +27,7 @@ see past projects their colleagues have done?
 
 For Julie, a director leading two-cutting edge wearables in the smart product
 suite, this place enabled her to get up and running in a matter of hours. She
-initially was weary about confidentiality and exposing intellectual property,
+initially was wary about confidentiality and exposing intellectual property,
 but through compliance training, FAQ’s, and seeing past freelance projects from
 her colleagues, she posted her first job and hired a five-star freelancer one of
 her colleagues had used within two days. With the freelancer designing an
@@ -47,10 +48,9 @@ of best practices.
 
 The [Sharepoint Communication
 Site](https://support.office.com/en-us/article/what-is-a-sharepoint-communication-site-94a33429-e580-45c3-a090-5512a8070732)
-is a template intranet website that is designed to be your employees
+is a template intranet website that is designed to be your employees'
 one-stop-shop for everything they need to know about the program. While the site
-is completely customizable by you based on your requirements, policies, and
-practices, we’ve included many of our best practices in the template, such as:
+is completely customizable, we’ve included many of our best practices in the template, such as:
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -111,7 +111,7 @@ practices, we’ve included many of our best practices in the template, such as:
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>An FAQ pre-seeded with the top questions we’ve seen from our employees (note: we’ve love to provide the answers, but in the interests of not cheating you’re on your own).</p>
+                        <p>An FAQ pre-seeded with the top questions we’ve seen from our employees.</p>
                     </div>
                 </div>
             </div>
@@ -147,13 +147,13 @@ Learn more with the following resources
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/subsite.png" alt="A site template icon" />
+                            <img src="media/bill-blue.png" alt="A job posting template icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Deploy communications site</h3>
-                        <p>Start building your communications site today with our prepopulated template. The communications site template is completely customizable, but we have curated many of our best practices into the template. Enjoy!. </p>
-                        <p><a href="https://microsoft.sharepoint-df.com/teams/MSFTUpworkTeam/Shared%20Documents/Expert%20Marketplace/SharePoint%20Comms%20Site.PNG">Deploy communications site</a></p>
+                        <h3>Communication site engagement template</h3>
+                        <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
+                        <p><a href="https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1">Download the communications site engagement template</a></p>
                     </div>
                 </div>
             </div>
@@ -165,13 +165,13 @@ Learn more with the following resources
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/bill-blue.png" alt="A job posting template icon" />
+                            <img src="media/subsite.png" alt="A site template icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Communication site engagement template</h3>
-                        <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="https://docs.google.com/document/d/1aMRsMNNKtO3JYqqf5mBlZIk9cYiPoOCVUCXFIH9IbQ8/edit?pli=1">Download the communications site engagement template</a></p>
+                        <h3>Deploy communications site</h3>
+                        <p>Start building your communications site today with our prepopulated template. The communications site template is completely customizable, but we have curated many of our best practices into the template. Enjoy!. </p>
+                        <p><a href="https://microsoft.sharepoint-df.com/teams/MSFTUpworkTeam/Shared%20Documents/Expert%20Marketplace/SharePoint%20Comms%20Site.PNG">Deploy communications site</a></p>
                     </div>
                 </div>
             </div>

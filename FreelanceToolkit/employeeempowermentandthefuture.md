@@ -1,3 +1,16 @@
+---
+title: Employee empowerment and the future 
+description: Future opportunities for empowering employees with an enterprise freelance program 
+author: samanro
+manager: samanro
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: article
+ms.author: samanro
+localization_priority: None 
+---
 Employee empowerment and the future
 ===================================
 

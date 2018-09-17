@@ -1,6 +1,6 @@
 ---
 title: Team-wide collaboration
-description: Add a short description
+description: Use Microsoft Teams to facilitate team-wide collaboration in an enterprise freelance program
 author: samanro
 manager: samanro
 layout: LandingPage
@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
 ms.author: samanro
+localization_priority: None 
 ---
 Team-wide collaboration
 ===========================
@@ -23,9 +24,9 @@ teams work?
 For Beth, a training manager leading a team of four full time employees and a
 continuous flow of freelancers to create training videos, she needed to create
 150 training videos in six weeks – a feat unattainable with her then current
-capacity. By leveraging Microsoft teams as her teams one place for
+capacity. By leveraging Microsoft Teams as her team's one place for
 communication, collaboration, and project management, she was able not only to
-hit her teams goal two weeks early, but bring an internal transformation
+hit her team's goal two weeks early, but bring an internal transformation
 solution to her entire 150 person organization.
 
 ![Play](media/video-play.png)
@@ -72,7 +73,7 @@ all in one place, the ability to:
                     </div>
                     <div class="cardText">
                         <h3>Manage tasks</h3>
-                        <p>Like Trello, one place to track progress and align each team members workflow through popular project management techniques. </p>
+                        <p>Like Trello, one place to track progress and align each team member's workflow through popular project management techniques. </p>
                     </div>
                 </div>
             </div>
@@ -117,7 +118,7 @@ all in one place, the ability to:
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) is
 your hub application that supports integration with Microsoft applications as
 well as hundreds of 3rd party applications like Trello that your teams use to
-get work done. This section will help you learn:
+get work done. 
 
 Learn more with the following resources
 ---------------------------------------

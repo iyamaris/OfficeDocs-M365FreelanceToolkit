@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 freelance toolkit
-description: Add a short description
+description: Launch and execute enterprise freelance programs at scale with this guidance 
 author: samanro
 manager: samanro
 layout: LandingPage
@@ -9,8 +9,8 @@ ms.service:
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
-ms.date: 12/13/2017
 ms.author: samanro
+localization_priority: None 
 ---
 # Microsoft 365 freelance toolkit
 

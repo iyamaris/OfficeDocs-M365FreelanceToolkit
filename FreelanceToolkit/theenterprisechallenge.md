@@ -1,3 +1,16 @@
+---
+title: The enterprise challenge 
+description: The challenge of creating a freelance program in an enterprise organization 
+author: samanro
+manager: samanro
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: article
+ms.author: samanro
+localization_priority: None 
+---
 The enterprise challenge
 ========================
 

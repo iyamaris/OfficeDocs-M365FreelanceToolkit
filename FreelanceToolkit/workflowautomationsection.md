@@ -1,6 +1,6 @@
 ---
 title: Workflow automation
-description: Add a short description
+description: Use Microsoft Flow to automate workflow tasks in an enterprise freelance program
 author: samanro
 manager: samanro
 layout: LandingPage
@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
 ms.author: samanro
+localization_priority: None 
 ---
 Workflow automation
 ===================

@@ -1,6 +1,6 @@
 ---
-title: Data analytics
-description: Add a short description
+title: Data analytics 
+description: How to set up data analytics for an enterprise freelance program 
 author: samanro
 manager: samanro
 layout: LandingPage
@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
 ms.author: samanro
+localization_priority: None 
 ---
 Data analytics 
 ===================
@@ -26,7 +27,7 @@ freelance isn’t just a flash in the pan. That instead, by comparing it side by
 side with existing external staffing options, it is consistently better, faster,
 and cheaper by leaps and bounds.
 
-![](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
+![A spending report in PowerBI](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
 
 [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](dataanalyticscasestudy.md)

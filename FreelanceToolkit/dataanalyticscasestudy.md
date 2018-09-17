@@ -1,3 +1,16 @@
+---
+title: Data analytics case study 
+description: A case study about analyzing data about an enterprise freelance program 
+author: samanro
+manager: samanro
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: article
+ms.author: samanro
+localization_priority: None 
+---
 Data analytics case study 
 ===================
 

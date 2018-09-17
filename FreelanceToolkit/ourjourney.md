@@ -1,3 +1,16 @@
+---
+title: Our journey 
+description: How Microsoft came to adopt an enterprise freelance program
+author: samanro
+manager: samanro
+ms.assetid: 
+ms.service: 
+ms.tgt_pltfrm: na
+ms.devlang: na
+ms.topic: article
+ms.author: samanro
+localization_priority: None 
+---
 Our journey 
 ======================================
 
@@ -5,14 +18,15 @@ Every week we talk to another full-time employee whose life has been positively
 and fundamentally changed by their access to freelance resources through the gig
 economy. Whether it’s helping them achieve work-life balance, re-skill
 themselves, or achieve more we’ve seen them move from skeptics to promoters; the
-M365 Freelance Connector is designed to help you achieve the same results in
+Microsoft 365 Freelance Connector is designed to help you achieve the same results in
 your company. 
 
 As part of a content creation organization within Microsoft our team was one of
 the first to be exposed to the idea of leveraging freelancers and the gig
 economy. By early 2017 we realized that the implications of the gig economy were
 much broader than we initially realized, and we made the decision to make a
-targeted investment in creating and pursuing a gig economy strategy.  
+targeted investment in creating and pursuing a gig economy strategy. In November 
+2017, we partnered with Upwork to pursue a gig economy strategy. 
 
 One of our earliest principles was to focus on a Customer Zero approach – where
 we would be our own “Customer Zero”. This means that all of the samples,
@@ -35,7 +49,6 @@ were broadly applicable that we captured in case studies and best practices. 
 When talking to our customers (many of whom were trying to run similar pilots)
 we quickly recognized that there was an opportunity to publish our experiences
 to provide real benefit to our customers. This site represents the first
-manifestation of this realization.  It is for informational purposes only. Each
-enterprise will need to evaluate how the use of the gig economy meets its own
-requirements and needs, including such things as intellectual property
-protections, data handling, and compliance requirements.
+manifestation of this realization. Each enterprise will need to evaluate how 
+the use of the gig economy meets its own requirements and needs, including such 
+things as intellectual property protections, data handling, and compliance requirements.
