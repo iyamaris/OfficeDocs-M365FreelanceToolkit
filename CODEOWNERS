@@ -1,1 +1,5 @@
-/FreelanceToolkit/ @matthewrmottola1
+docfx.json                          @microsoftdocs/officedocs-admin
+.openpublishing.build.ps1           @microsoftdocs/officedocs-admin
+.openpublishing.publish.config.json @microsoftdocs/officedocs-admin
+CODEOWNERS                          @microsoftdocs/officedocs-admin
+.acrolinx-config.edn                @microsoftdocs/officedocs-admin
